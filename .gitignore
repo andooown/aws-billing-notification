@@ -1,2 +1,6 @@
+# モジュールを除外
 src/*
 !src/lambda_function.py
+
+# 完成物を除外
+upload.zip
