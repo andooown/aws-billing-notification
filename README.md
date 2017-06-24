@@ -21,4 +21,4 @@ zip -r upload.zip *
 - slackWebhookUrl
     - SlackのPOST先のURL
 - slackChannel
-    - POST先のチャンネル名(例: #aws)
+    - POST先のチャンネル名(例: #aws)
